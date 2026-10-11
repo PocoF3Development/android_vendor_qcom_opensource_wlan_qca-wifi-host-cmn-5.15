@@ -24,6 +24,7 @@
  */
 
 /* Include Files */
+#include "qdf_list.h"
 #include "qdf_str.h"
 #include <qdf_trace.h>
 #include <qdf_parse.h>
